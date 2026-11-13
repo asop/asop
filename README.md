@@ -3,8 +3,6 @@
 Full Stack Developer (.NET Core + React) | Remote-First
 Based in West Java, Indonesia.
 
-Working on enterprise apps, MySQL, SQL Server, and modernizing legacy systems. Currently building secure APIs with JWT & Google OAuth 2.0.
-
 🎯 Goal: Remote Work
 📍 Based in: West Java, Indonesia 🇮🇩
 💼 Freelance | Self-Employed
